@@ -1,0 +1,10 @@
+# requirements.txt
+
+# Flask est le framework web utilisé pour construire l'API REST
+Flask==2.0.2
+
+# pytest est un outil de tests unitaires pour Python, utilisé pour tester les fonctions de calcul
+pytest==6.2.5
+
+# requests est une bibliothèque HTTP pour envoyer des requêtes HTTP, utile pour tester l'API
+requests==2.26.0
